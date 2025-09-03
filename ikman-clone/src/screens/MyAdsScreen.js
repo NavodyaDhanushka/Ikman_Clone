@@ -25,7 +25,7 @@ export default function MyAdsScreen() {
             </View>
 
             <View style={styles.body}>
-                <Text style={styles.welcome}>Welcome Navodya Dhanushka!</Text>
+                <Text style={styles.welcome}>Welcome John Doe!</Text>
                 <Text style={styles.sub}>Choose an option below to post an ad</Text>
 
                 <FlatList
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     container: { flex: 1, backgroundColor: "#fff" },
     header: { backgroundColor: "#ffffff", padding: 15 },
     headerText: { color: "#fff", fontSize: 18, fontWeight: "bold" },
-    body: { padding: 16 },
+    body: { padding: 19 },
     welcome: { fontSize: 16, fontWeight: "bold", marginBottom: 4 },
     sub: { color: "#555" },
     card: {
