@@ -25,17 +25,17 @@ export const PRODUCTS = [
     { id: 'p15', categoryId: 'furniture', title: 'Queen Bed with Mattress', price: 85000, image: 'https://i.postimg.cc/x8NWkmPF/2-K8-A9803-Both-Premier-1web.jpg', description: 'Modern design, storage drawers.' },
 
     // Fashion (new)
-    { id: 'p16', categoryId: 'fashion', title: 'Men’s Leather Jacket', price: 18000, image: 'https://picsum.photos/seed/jacket/600', description: 'Genuine leather, size L.' },
-    { id: 'p17', categoryId: 'fashion', title: 'Women’s Handbag', price: 12000, image: 'https://picsum.photos/seed/bag/600', description: 'Designer inspired, brand new.' },
-    { id: 'p18', categoryId: 'fashion', title: 'Sneakers - Unisex', price: 9500, image: 'https://picsum.photos/seed/shoes/600', description: 'Comfortable, all sizes available.' },
+    { id: 'p16', categoryId: 'fashion', title: 'Men’s Leather Jacket', price: 18000, image: 'https://i.postimg.cc/7ZqXT7Ht/91pr7-Nn-B7-PL-AC-SL1500.jpg', description: 'Genuine leather, size L.' },
+    { id: 'p17', categoryId: 'fashion', title: 'Women’s Handbag', price: 12000, image: 'https://i.postimg.cc/jdHZ5vbJ/d7383167cee00a90c0df7a36913bbe09-jpg-720x720q80.jpg', description: 'Designer inspired, brand new.' },
+    { id: 'p18', categoryId: 'fashion', title: 'Sneakers - Unisex', price: 9500, image: 'https://i.postimg.cc/WbL5TCQv/LATEST-TRENDY-UNISEX-TRAINER-SNEAKERS.jpg', description: 'Comfortable, all sizes available.' },
 
     // Pets (new)
-    { id: 'p19', categoryId: 'pets', title: 'Golden Retriever Puppy', price: 85000, image: 'https://picsum.photos/seed/dog/600', description: 'Healthy, vaccinated, 3 months old.' },
-    { id: 'p20', categoryId: 'pets', title: 'Persian Cat', price: 45000, image: 'https://picsum.photos/seed/cat/600', description: 'White coat, litter trained.' },
-    { id: 'p21', categoryId: 'pets', title: 'Aquarium Fish Set', price: 12000, image: 'https://picsum.photos/seed/fish/600', description: 'Includes tank and accessories.' },
+    { id: 'p19', categoryId: 'pets', title: 'Golden Retriever Puppy', price: 85000, image: 'https://i.postimg.cc/nrtqfbMS/media-16e89029edcc85076147cda767a7cd26d98767af3.png', description: 'Healthy, vaccinated, 3 months old.' },
+    { id: 'p20', categoryId: 'pets', title: 'Persian Cat', price: 45000, image: 'https://i.postimg.cc/3RG2qJrD/Persian-cat-900x600.jpg', description: 'White coat, litter trained.' },
+    { id: 'p21', categoryId: 'pets', title: 'Aquarium Fish Set', price: 12000, image: 'https://i.postimg.cc/nLgvTQxJ/fish.png', description: 'Includes tank and accessories.' },
 
     // Services (new)
-    { id: 'p22', categoryId: 'services', title: 'House Cleaning Service', price: 5000, image: 'https://picsum.photos/seed/cleaning/600', description: 'Per session, Colombo area.' },
-    { id: 'p23', categoryId: 'services', title: 'Wedding Photography', price: 95000, image: 'https://picsum.photos/seed/photography/600', description: 'Full-day package with album.' },
-    { id: 'p24', categoryId: 'services', title: 'Tutoring - Mathematics', price: 2000, image: 'https://picsum.photos/seed/tutor/600', description: 'Per hour, O/L & A/L levels.' },
+    { id: 'p22', categoryId: 'services', title: 'House Cleaning Service', price: 5000, image: 'https://i.postimg.cc/VkTrcQV9/house-cleaning-services-big.jpg', description: 'Per session, Colombo area.' },
+    { id: 'p23', categoryId: 'services', title: 'Wedding Photography', price: 95000, image: 'https://i.postimg.cc/GpyBL7WW/questions-to-asj-wedding-photographer-recirc-getty-images-61ea34e9e287426d9ca41ae4615e964a.jpg', description: 'Full-day package with album.' },
+    { id: 'p24', categoryId: 'services', title: 'Tutoring - Mathematics', price: 2000, image: 'https://i.postimg.cc/7ZbGcYmY/online-math-tutoring-1695370217.jpg', description: 'Per hour, O/L & A/L levels.' },
 ];
