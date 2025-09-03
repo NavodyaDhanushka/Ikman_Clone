@@ -1,0 +1,17 @@
+export const CATEGORIES = [
+    { id: 'cars', name: 'Cars', image: 'https://picsum.photos/seed/cars/300' },
+    { id: 'electronics', name: 'Electronics', image: 'https://picsum.photos/seed/electronics/300' },
+    { id: 'jobs', name: 'Jobs', image: 'https://picsum.photos/seed/jobs/300' },
+    { id: 'property', name: 'Property', image: 'https://picsum.photos/seed/property/300' },
+    { id: 'services', name: 'Services', image: 'https://picsum.photos/seed/services/300' },
+    { id: 'furniture', name: 'Furniture', image: 'https://picsum.photos/seed/furniture/300' },
+    { id: 'fashion', name: 'Fashion', image: 'https://picsum.photos/seed/fashion/300' },
+    { id: 'pets', name: 'Pets', image: 'https://picsum.photos/seed/pets/300' },
+    { id: 'education', name: 'Education', image: 'https://picsum.photos/seed/education/300' },
+    { id: 'sports', name: 'Sports & Fitness', image: 'https://picsum.photos/seed/sports/300' },
+    { id: 'travel', name: 'Travel & Tourism', image: 'https://picsum.photos/seed/travel/300' },
+    { id: 'health', name: 'Health & Beauty', image: 'https://picsum.photos/seed/health/300' },
+    { id: 'agriculture', name: 'Agriculture', image: 'https://picsum.photos/seed/agriculture/300' },
+    { id: 'events', name: 'Events & Tickets', image: 'https://picsum.photos/seed/events/300' },
+    { id: 'others', name: 'Other', image: 'https://picsum.photos/seed/others/300' },
+];
